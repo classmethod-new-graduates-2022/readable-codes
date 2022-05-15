@@ -1,0 +1,14 @@
+{
+  "name": "bad",
+  "version": "1.0.0",
+  "description": "bad codes sample",
+  "author": "Takagi Kensuke <janus.wel.3@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "engines": {
+    "node": "~18.0.0"
+  }
+}
